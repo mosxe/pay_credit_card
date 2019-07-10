@@ -1,6 +1,6 @@
 # credit-card
 
-> y
+> pay credit card
 
 ## Build Setup
 
